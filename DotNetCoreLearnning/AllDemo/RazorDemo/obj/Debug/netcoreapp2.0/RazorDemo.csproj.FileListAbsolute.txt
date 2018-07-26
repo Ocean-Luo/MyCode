@@ -1,0 +1,11 @@
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\bin\Debug\netcoreapp2.0\RazorDemo.deps.json
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\bin\Debug\netcoreapp2.0\RazorDemo.runtimeconfig.json
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\bin\Debug\netcoreapp2.0\RazorDemo.runtimeconfig.dev.json
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\bin\Debug\netcoreapp2.0\RazorDemo.dll
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\bin\Debug\netcoreapp2.0\RazorDemo.pdb
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\obj\Debug\netcoreapp2.0\RazorDemo.csproj.CoreCompileInputs.cache
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\obj\Debug\netcoreapp2.0\RazorDemo.AssemblyInfoInputs.cache
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\obj\Debug\netcoreapp2.0\RazorDemo.AssemblyInfo.cs
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\obj\Debug\netcoreapp2.0\RazorDemo.dll
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\obj\Debug\netcoreapp2.0\RazorDemo.pdb
+E:\DotNetCoreLearnning\AllDemo\RazorDemo\obj\Debug\netcoreapp2.0\RazorDemo.csprojAssemblyReference.cache

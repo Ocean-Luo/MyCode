@@ -1,0 +1,10 @@
+E:\DotNetCoreLearnning\AllDemo\HttpWebRequestDemo\bin\Debug\netcoreapp2.0\HttpWebRequestDemo.deps.json
+E:\DotNetCoreLearnning\AllDemo\HttpWebRequestDemo\bin\Debug\netcoreapp2.0\HttpWebRequestDemo.runtimeconfig.json
+E:\DotNetCoreLearnning\AllDemo\HttpWebRequestDemo\bin\Debug\netcoreapp2.0\HttpWebRequestDemo.runtimeconfig.dev.json
+E:\DotNetCoreLearnning\AllDemo\HttpWebRequestDemo\bin\Debug\netcoreapp2.0\HttpWebRequestDemo.dll
+E:\DotNetCoreLearnning\AllDemo\HttpWebRequestDemo\bin\Debug\netcoreapp2.0\HttpWebRequestDemo.pdb
+E:\DotNetCoreLearnning\AllDemo\HttpWebRequestDemo\obj\Debug\netcoreapp2.0\HttpWebRequestDemo.csproj.CoreCompileInputs.cache
+E:\DotNetCoreLearnning\AllDemo\HttpWebRequestDemo\obj\Debug\netcoreapp2.0\HttpWebRequestDemo.AssemblyInfoInputs.cache
+E:\DotNetCoreLearnning\AllDemo\HttpWebRequestDemo\obj\Debug\netcoreapp2.0\HttpWebRequestDemo.AssemblyInfo.cs
+E:\DotNetCoreLearnning\AllDemo\HttpWebRequestDemo\obj\Debug\netcoreapp2.0\HttpWebRequestDemo.dll
+E:\DotNetCoreLearnning\AllDemo\HttpWebRequestDemo\obj\Debug\netcoreapp2.0\HttpWebRequestDemo.pdb

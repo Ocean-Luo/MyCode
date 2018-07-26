@@ -1,0 +1,10 @@
+E:\MyCode\DotNetCoreLearnning\AllDemo\TestDemo\bin\Debug\netcoreapp2.0\TestDemo.deps.json
+E:\MyCode\DotNetCoreLearnning\AllDemo\TestDemo\bin\Debug\netcoreapp2.0\TestDemo.runtimeconfig.json
+E:\MyCode\DotNetCoreLearnning\AllDemo\TestDemo\bin\Debug\netcoreapp2.0\TestDemo.runtimeconfig.dev.json
+E:\MyCode\DotNetCoreLearnning\AllDemo\TestDemo\bin\Debug\netcoreapp2.0\TestDemo.dll
+E:\MyCode\DotNetCoreLearnning\AllDemo\TestDemo\bin\Debug\netcoreapp2.0\TestDemo.pdb
+E:\MyCode\DotNetCoreLearnning\AllDemo\TestDemo\obj\Debug\netcoreapp2.0\TestDemo.csproj.CoreCompileInputs.cache
+E:\MyCode\DotNetCoreLearnning\AllDemo\TestDemo\obj\Debug\netcoreapp2.0\TestDemo.AssemblyInfoInputs.cache
+E:\MyCode\DotNetCoreLearnning\AllDemo\TestDemo\obj\Debug\netcoreapp2.0\TestDemo.AssemblyInfo.cs
+E:\MyCode\DotNetCoreLearnning\AllDemo\TestDemo\obj\Debug\netcoreapp2.0\TestDemo.dll
+E:\MyCode\DotNetCoreLearnning\AllDemo\TestDemo\obj\Debug\netcoreapp2.0\TestDemo.pdb

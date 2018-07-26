@@ -1,0 +1,11 @@
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\bin\Debug\netcoreapp2.0\DapperDemo.deps.json
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\bin\Debug\netcoreapp2.0\DapperDemo.runtimeconfig.json
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\bin\Debug\netcoreapp2.0\DapperDemo.runtimeconfig.dev.json
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\bin\Debug\netcoreapp2.0\DapperDemo.dll
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\obj\Debug\netcoreapp2.0\DapperDemo.csproj.CoreCompileInputs.cache
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\obj\Debug\netcoreapp2.0\DapperDemo.AssemblyInfoInputs.cache
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\obj\Debug\netcoreapp2.0\DapperDemo.AssemblyInfo.cs
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\bin\Debug\netcoreapp2.0\DapperDemo.pdb
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\obj\Debug\netcoreapp2.0\DapperDemo.dll
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\obj\Debug\netcoreapp2.0\DapperDemo.pdb
+E:\DotNetCoreLearnning\AllDemo\DapperDemo\obj\Debug\netcoreapp2.0\DapperDemo.csprojAssemblyReference.cache

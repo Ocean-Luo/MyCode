@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="hangfire.sqlserver" Version="1.6.19" />
+    <PackageReference Include="Jil" Version="2.15.4" />
+  </ItemGroup>
+
+</Project>

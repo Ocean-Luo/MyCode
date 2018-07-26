@@ -1,0 +1,10 @@
+E:\DotNetCoreLearnning\AllDemo\ThreadDemo\bin\Debug\netcoreapp2.0\ThreadDemo.deps.json
+E:\DotNetCoreLearnning\AllDemo\ThreadDemo\bin\Debug\netcoreapp2.0\ThreadDemo.runtimeconfig.json
+E:\DotNetCoreLearnning\AllDemo\ThreadDemo\bin\Debug\netcoreapp2.0\ThreadDemo.runtimeconfig.dev.json
+E:\DotNetCoreLearnning\AllDemo\ThreadDemo\bin\Debug\netcoreapp2.0\ThreadDemo.dll
+E:\DotNetCoreLearnning\AllDemo\ThreadDemo\bin\Debug\netcoreapp2.0\ThreadDemo.pdb
+E:\DotNetCoreLearnning\AllDemo\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.csproj.CoreCompileInputs.cache
+E:\DotNetCoreLearnning\AllDemo\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.AssemblyInfoInputs.cache
+E:\DotNetCoreLearnning\AllDemo\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.AssemblyInfo.cs
+E:\DotNetCoreLearnning\AllDemo\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.dll
+E:\DotNetCoreLearnning\AllDemo\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.pdb

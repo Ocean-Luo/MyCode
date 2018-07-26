@@ -1,0 +1,11 @@
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\bin\Debug\netcoreapp2.0\RazorPageMovie.deps.json
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\bin\Debug\netcoreapp2.0\RazorPageMovie.runtimeconfig.json
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\bin\Debug\netcoreapp2.0\RazorPageMovie.runtimeconfig.dev.json
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\bin\Debug\netcoreapp2.0\RazorPageMovie.dll
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\bin\Debug\netcoreapp2.0\RazorPageMovie.pdb
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.csprojResolveAssemblyReference.cache
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.csproj.CoreCompileInputs.cache
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.AssemblyInfoInputs.cache
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.AssemblyInfo.cs
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.dll
+E:\DotNetCoreLearnning\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.pdb

@@ -1,0 +1,17 @@
+E:\DotNetCoreLearnning\Messages\bin\Debug\netcoreapp2.0\Messages.deps.json
+E:\DotNetCoreLearnning\Messages\bin\Debug\netcoreapp2.0\Messages.dll
+E:\DotNetCoreLearnning\Messages\bin\Debug\netcoreapp2.0\Messages.pdb
+E:\DotNetCoreLearnning\Messages\obj\Debug\netcoreapp2.0\Messages.csproj.CoreCompileInputs.cache
+E:\DotNetCoreLearnning\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfoInputs.cache
+E:\DotNetCoreLearnning\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfo.cs
+E:\DotNetCoreLearnning\Messages\obj\Debug\netcoreapp2.0\Messages.dll
+E:\DotNetCoreLearnning\Messages\obj\Debug\netcoreapp2.0\Messages.pdb
+E:\DotNetCoreLearnning\Messages\obj\Debug\netcoreapp2.0\Messages.csprojAssemblyReference.cache
+E:\DotNetCoreLearnning\AllDemo\RabbitMQDemo\Messages\bin\Debug\netcoreapp2.0\Messages.deps.json
+E:\DotNetCoreLearnning\AllDemo\RabbitMQDemo\Messages\bin\Debug\netcoreapp2.0\Messages.dll
+E:\DotNetCoreLearnning\AllDemo\RabbitMQDemo\Messages\bin\Debug\netcoreapp2.0\Messages.pdb
+E:\DotNetCoreLearnning\AllDemo\RabbitMQDemo\Messages\obj\Debug\netcoreapp2.0\Messages.csproj.CoreCompileInputs.cache
+E:\DotNetCoreLearnning\AllDemo\RabbitMQDemo\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfoInputs.cache
+E:\DotNetCoreLearnning\AllDemo\RabbitMQDemo\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfo.cs
+E:\DotNetCoreLearnning\AllDemo\RabbitMQDemo\Messages\obj\Debug\netcoreapp2.0\Messages.dll
+E:\DotNetCoreLearnning\AllDemo\RabbitMQDemo\Messages\obj\Debug\netcoreapp2.0\Messages.pdb
